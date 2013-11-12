@@ -1,5 +1,5 @@
 //
-//  GPViewController.h
+//  GPTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Gord Peng on 2013-11-11.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface GPViewController : UIViewController
+@interface GPTableViewController : UITableViewController
 
 @end
